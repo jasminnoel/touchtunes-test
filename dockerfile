@@ -1,4 +1,4 @@
-FROM node:8
+FROM stefanscherer/node-windows
 
 WORKDIR /usr/src/app
 
